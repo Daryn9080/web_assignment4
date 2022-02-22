@@ -1,12 +1,12 @@
 function laptop() {
     return {
-        nameEn:"Dell XPS 13",
-        nameRu: "Dell XPS 13",
+        nameEn:"HUAWEI MateBook D 15",
+        nameRu: "HUAWEI MateBook D 15",
         descriptionEn: "Operating system · Central processing unit ; Microsoft Windows 7 Home Premium · Intel Core i5.",
         descriptionRu: "Операционная система · Центральный процессор ; Microsoft Windows 7 Home Premium · Intel Core i5.",
         imageSrc: "https://www.ixbt.com/img/r30/00/02/13/87/notebook-entry-level-buyers-guide-2018-big.jpg",
-        price: 200000,
-        discountPrice : 175000
+        price: 400000,
+        discountPrice : 375000,
     };
 }
 
